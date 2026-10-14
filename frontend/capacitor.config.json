@@ -1,0 +1,9 @@
+{
+  "appId": "com.petszoo.app",
+  "appName": "Petszoo",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

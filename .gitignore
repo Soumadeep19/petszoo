@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+.gradle/
+build/
+dist/
+*.log
+
+# Android local configs
+local.properties
+.idea/
+.vscode/
+*.iml
+frontend/android/app/build/
+frontend/android/build/
+frontend/android/.gradle/
